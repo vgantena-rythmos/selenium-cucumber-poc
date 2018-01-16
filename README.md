@@ -1,8 +1,8 @@
-#PURPOSE OF THIS DOCUMENT:
+# PURPOSE OF THIS DOCUMENT:
 This document is a generic  Document for Uncrustify Project. It provides guidance and template material which is intended to assist the technical staff.
 It is also useful background reading for anyone involved in developing or monitoring the Uncrustify.
 
-##DEVELOPMENT
+## DEVELOPMENT
 - Branch Creation (Assumed that you have installed git-hub desktop and cloned Unity-Uncrustify repository), make sure that your current branch is master and then create a new branch “Git_hub -> Branch -> New Branch” mention branch- name which is appropriate and publish branch.
 - Run all the test cases before starting any development work to ensure that the branch is ERROR free.
 - Now you are ready to develop Uncrustify, make sure that your piece of work doesn’t affect the existing functionality which is correct. 
