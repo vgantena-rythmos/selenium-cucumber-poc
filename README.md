@@ -24,3 +24,4 @@
 - Run Uncrustify on uncrustify code ```scripts\Run_uncrustify_for_sources.bat``` make sure that the source code is Uncrustified.
 
 - After all the above steps commit the code and raise PR (Pull Request)
+- After all the above steps commit the code and raise PR (Pull Request)
